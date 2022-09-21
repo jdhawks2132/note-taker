@@ -54,4 +54,4 @@ This project is not open for contributions.
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at [email](mailto:jdhawks.dev@gmail.com). You can find more of my work at [github](https://github.com/jdhawks2132)
+If you have any questions about the repo, open an issue or contact me directly at [email](mailto:jdhawks.dev@gmail.com). You can find more of my work at [github](https://github.com/jdhawks2132).
